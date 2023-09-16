@@ -14,11 +14,11 @@ In this lab, you'll find examples of basic Python code to get you started.
 
 Learn how to work with different data types in Python, such as integers, floats, and strings.
 
-### 3. Data Type Conversion
+### 3. Wokring with Tuples
 
 Explore how to convert data from one type to another, allowing for flexibility in your code.
 
-### 4. Using Expressions and Variables
+### 4. Working with Sets
 
 Discover how to use expressions and variables to perform operations and store data.
 
