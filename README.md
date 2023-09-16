@@ -16,31 +16,20 @@ Learn how to work with different data types in Python, such as integers, floats,
 
 ### 3. Working with Tuples
 
-Explore how to convert data from one type to another, allowing for flexibility in your code.
+Perform various operations on lists and tuples, including indexing, slicing, and sorting.
 
 ### 4. Working with Sets
 
-Discover how to use expressions and variables to perform operations and store data.
-
-### 5. Working with Dictionaries
-
-Learn about string manipulation, operations, indexing, and escape sequences in Python.
-
-### 6. Manipulating Lists and Tuples
-
-Perform various operations on lists and tuples, including indexing, slicing, and sorting.
-
-### 7. Working with Sets
-
 Explore the world of sets in Python, including set operations and logical operations.
 
-### 8. Creating and Using Dictionaries
+### 5. Creating and Using Dictionaries
 
 Learn how to create dictionaries and perform operations on them.
 
-### 9. Conditional Statements
+### 6. Conditional Statements
 
 Master the use of conditional statements in Python, including operators and branching.
+
 
 ## How to Use This Repository
 
