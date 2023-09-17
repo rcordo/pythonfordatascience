@@ -30,6 +30,13 @@ Learn how to create dictionaries and perform operations on them.
 
 Master the use of conditional statements in Python, including operators and branching.
 
+### 7. Loops
+
+Utilizing for and while loops.
+
+### 8. Functions in Python
+
+You'll know the basic concepts about functions, variables, and how to use functions.
 
 ## How to Use This Repository
 
