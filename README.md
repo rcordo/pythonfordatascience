@@ -1,54 +1,75 @@
-# Python Coding Labs Repository
+# Python for Data Science Labs
 
-Welcome to the Python Coding Labs repository! This repository contains a series of completed labs that demonstrate various aspects of Python coding. Whether you're a beginner looking to learn Python or someone looking to refresh their skills, you'll find these labs helpful.
+Welcome to the Python for Data Science program labs repository! Here you will find a collection of Jupyter Notebook labs that cover various topics related to Python and data science. These labs are part of the Python for Data Science program and are designed to help you build your skills in Python and data manipulation.
 
-## Lab Topics
+## Lab List
 
-Here are the topics covered in this repository:
+1. [Write Your First Python Code](PY0101EN-1-1-Write_your_first_python_code-20230703-1688342400.jupyterlite.ipynb)
+   - This lab introduces you to the basics of Python programming.
 
-### 1. Writing Basic Python Code
+2. [Working with Strings](PY0101EN-1-2-Strings-20230410-1681084800.jupyterlite.ipynb)
+   - Learn how to manipulate and work with strings in Python.
 
-In this lab, you'll find examples of basic Python code to get you started.
+3. [Exploring Tuples](PY0101EN-2-1-Tuples-20230721-1689897600.jupyterlite.ipynb)
+   - Explore the concept of tuples in Python and how to use them.
 
-### 2. Working with Various Types of Data
+4. [Understanding Lists](PY0101EN-2-2-Lists-20230721-1689897600.jupyterlite.ipynb)
+   - Dive into Python lists and their various operations.
 
-Learn how to work with different data types in Python, such as integers, floats, and strings.
+5. [Working with Sets](PY0101EN-2-3-Sets-20230721-1689897600.jupyterlite.ipynb)
+   - Learn about sets and how to perform set operations in Python.
 
-### 3. Working with Tuples
+6. [Exploring Dictionaries](PY0101EN-2-4-Dictionaries-20230526-1685059200.jupyterlite.ipynb)
+   - Understand dictionaries and their use in Python.
 
-Perform various operations on lists and tuples, including indexing, slicing, and sorting.
+7. [Conditional Statements](PY0101EN-3-1-Conditions-20230721-1689897600.jupyterlite.ipynb)
+   - Learn about conditional statements and decision-making in Python.
 
-### 4. Working with Sets
+8. [Exception Handling](PY0101EN-3-1.2ExcecptionHandling.ipynb)
+   - Explore how to handle exceptions and errors in Python.
 
-Explore the world of sets in Python, including set operations and logical operations.
+9. [Looping in Python](PY0101EN-3-2-Loops-20230721-1689897600.jupyterlite.ipynb)
+   - Understand different types of loops in Python.
 
-### 5. Creating and Using Dictionaries
+10. [Functions in Python](PY0101EN-3-3-Functions_-20230721-1689897600.jupyterlite.ipynb)
+    - Learn about defining and using functions in Python.
 
-Learn how to create dictionaries and perform operations on them.
+11. [Introduction to Classes](PY0101EN-3-4-Classes-20230605-1685923200.jupyterlite.ipynb)
+    - Get an introduction to object-oriented programming with classes in Python.
 
-### 6. Conditional Statements
+12. [Practice Lab](PY0101EN-3-5-Practice_lab-20230526-1685059200.jupyterlite.ipynb)
+    - Practice your Python skills with this hands-on lab.
 
-Master the use of conditional statements in Python, including operators and branching.
+13. [Reading Files](PY0101EN-4-1-ReadFile-20230316-1678924800.jupyterlite.ipynb)
+    - Learn how to read data from files in Python.
 
-### 7. Loops
+14. [Writing Files](PY0101EN-4-2-WriteFile-20230404-1680566400.jupyterlite.ipynb)
+    - Understand how to write data to files in Python.
 
-Utilizing for and while loops.
+15. [Loading Data](PY0101EN-4-3-LoadData-20230424-1682294400.jupyterlite.ipynb)
+    - Explore methods for loading data into Python.
 
-### 8. Functions in Python
+16. [Introduction to NumPy (1D)](PY0101EN-5-1-Numpy1D.ipynb)
+    - Dive into NumPy, a fundamental library for numerical computing in Python.
 
-You'll know the basic concepts about functions, variables, and how to use functions.
+17. [Introduction to NumPy (2D)](PY0101EN-5-2-Numpy2D.ipynb)
+    - Continue your exploration of NumPy with 2D arrays and matrices.
 
-## How to Use This Repository
+18. [Introduction to API](PY0101EN-5.1_Intro_API.ipynb)
+    - An introduction to working with APIs in Python.
 
-Each lab is organized into its own directory within this repository. Inside each directory, you'll find Python scripts and documentation related to the lab's topic. You can clone this repository to your local machine and explore the labs at your own pace.
+19. [HTTP Requests with Python](PY0101EN-5.3_Requests_HTTP.ipynb)
+    - Learn how to make HTTP requests using Python.
 
-## Contributions
-
-If you'd like to contribute to this repository by adding more labs or improving existing ones, feel free to fork this repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
+20. [Pandas Practice](PY0101EN-SkillsNetwork_labs_Module 4_Pandas_Practice.ipynb)
+    - Practice your data manipulation skills with Pandas.
 
 ## Getting Started
 
-To get started, clone this repository to your local machine:
+To get started with these labs, simply click on the lab titles above to open and explore the Jupyter Notebook files. Each lab provides detailed explanations, code examples, and exercises to help you learn and practice Python and data science concepts.
 
+Happy learning!
+
+---
 
 git clone https://github.com/rcordo/pythonfordatascience
