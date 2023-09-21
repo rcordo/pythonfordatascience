@@ -61,7 +61,7 @@ Welcome to the Python for Data Science program labs repository! Here you will fi
 19. [HTTP Requests with Python](PY0101EN-5.3_Requests_HTTP.ipynb)
     - Learn how to make HTTP requests using Python.
 
-20. [Webscraping]
+20. [Webscraping](labs_module 1_Web Scraping_Web-Scraping-Review-Lab.ipynb)
     - Learn to webscrape
       
 21. [Pandas Practice](PY0101EN-SkillsNetwork_labs_Module 4_Pandas_Practice.ipynb)
